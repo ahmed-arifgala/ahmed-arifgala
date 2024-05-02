@@ -1,3 +1,5 @@
+<img src="Linkedin%20Banner.jpeg" />
+
 <h1 align="center">Hi there 👋, I'm Ahmed Gala</h1>
 <h3 align="center">A passionate machine learning enthusiast and front-end developer</h3>
 

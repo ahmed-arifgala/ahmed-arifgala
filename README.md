@@ -1,7 +1,7 @@
 <img src="Linkedin%20Banner.jpeg" />
 
 <h1 align="center">Hi there 👋, I'm Ahmed Gala</h1>
-<h3 align="center">A passionate machine learning enthusiast and front-end developer</h3>
+<h3 align="center">As an undergrad, I craft intelligent solutions with ML & DL, and develop innovative experiences with React.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-arifgala&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-arifgala" /> </p>
 
